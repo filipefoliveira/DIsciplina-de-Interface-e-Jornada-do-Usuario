@@ -2,7 +2,7 @@
 
 Acesse o protótipo navegável:
 
-🔗 https://www.figma.com/proto/MlqnWCr05OllRabDV9pKKj/Aula-1-Jornada-do-usuario
+🔗 https://www.figma.com/proto/MlqnWCr05OllRabDV9pKKj/Aula-1-Jornada-do-usuario - **Sua tarefa ao acessar o protótipo será de encontrar um psicólogo disponível e realizar o agendamento com sucesso.**
 
 
 # 📱 Wireframe UX — Jornada do Usuário para Agendamento de Psicólogo
