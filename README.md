@@ -1,3 +1,10 @@
+# 🎨 Protótipo no Figma
+
+Acesse o protótipo navegável:
+
+🔗 https://www.figma.com/proto/MlqnWCr05OllRabDV9pKKj/Aula-1-Jornada-do-usuario
+
+
 # 📱 Wireframe UX — Jornada do Usuário para Agendamento de Psicólogo
 
 ## 📌 Sobre o Projeto
@@ -120,13 +127,6 @@ O protótipo foi desenvolvido para possibilitar **testes de usabilidade**, permi
 * qual caminho de navegação preferem
 
 Os resultados desses testes podem orientar melhorias futuras na estrutura do aplicativo.
-
-
-# 🎨 Protótipo no Figma
-
-Acesse o protótipo navegável:
-
-🔗 https://www.figma.com/proto/MlqnWCr05OllRabDV9pKKj/Aula-1-Jornada-do-usuario
 
 
 # 📚 Tecnologias Utilizadas
