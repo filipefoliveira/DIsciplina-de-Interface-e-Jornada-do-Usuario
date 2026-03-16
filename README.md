@@ -2,139 +2,157 @@
 
 Acesse o protótipo navegável:
 
-🔗 https://www.figma.com/proto/MlqnWCr05OllRabDV9pKKj/Aula-1-Jornada-do-usuario - **Sua tarefa ao acessar o protótipo será de encontrar um psicólogo disponível e realizar o agendamento com sucesso.**
+🔗 https://www.figma.com/proto/MlqnWCr05OllRabDV9pKKj/Aula-1-Jornada-do-usuario  
 
+**Sua tarefa ao acessar o protótipo será encontrar um psicólogo disponível dentro da rede credenciada do plano e realizar o agendamento da consulta com sucesso.**
+
+---
 
 # 📱 Wireframe UX — Jornada do Usuário para Agendamento de Psicólogo
 
 ## 📌 Sobre o Projeto
 
-Este projeto apresenta um **wireframe mobile de baixa fidelidade desenvolvido no Figma**, criado como exercício de **UX Design focado na jornada do usuário e na arquitetura da informação**.
+Este projeto apresenta um **wireframe mobile desenvolvido no Figma**, criado como exercício de **UX Design com foco na jornada do usuário, arquitetura da informação e organização de funcionalidades em aplicativos de plano de saúde**.
 
-O objetivo do projeto é estruturar a experiência de um usuário que precisa **agendar uma consulta com psicólogo dentro de um aplicativo de plano de saúde**, considerando um cenário realista em que o usuário está emocionalmente vulnerável e possui **baixa tolerância à fricção durante o uso do aplicativo**.
+O projeto simula a interface de um **aplicativo de plano de saúde**, que centraliza diferentes serviços utilizados pelos beneficiários, como:
 
-O protótipo foi projetado priorizando **clareza funcional, rapidez na execução da tarefa e múltiplos caminhos para atingir o mesmo objetivo**.
+- Carteirinha digital  
+- Agendamento de consultas  
+- Busca por profissionais da rede credenciada  
+- Exames  
+- Notificações e suporte  
 
+Dentro desse contexto, o protótipo explora a experiência de um usuário que precisa **encontrar rapidamente um psicólogo disponível e realizar o agendamento da consulta**.
+
+A interface foi projetada considerando um cenário realista em que o usuário pode estar **emocionalmente vulnerável e com baixa tolerância à fricção**, exigindo um fluxo simples, claro e rápido.
+
+---
 
 # 🎯 Situação-Problema
 
-Aplicativos de planos de saúde geralmente oferecem muitas funcionalidades, como:
+Aplicativos de planos de saúde costumam concentrar **múltiplas funcionalidades em uma única plataforma**, permitindo que o usuário resolva diversas necessidades relacionadas ao cuidado com a saúde.
 
-* carteirinha digital
-* busca por médicos
-* exames
-* reembolsos
-* rede credenciada
-* telemedicina
+Entre as funcionalidades mais comuns estão:
 
-Com tantas opções disponíveis, **tarefas emocionalmente sensíveis**, como buscar ajuda psicológica, podem se tornar difíceis de acessar rapidamente.
+- Carteirinha digital do plano  
+- Busca por médicos da rede credenciada  
+- Exames e resultados  
+- Reembolsos  
+- Notificações e lembretes de consultas  
+- Telemedicina e suporte  
+
+Com tantas opções disponíveis na interface, **tarefas emocionalmente sensíveis**, como buscar ajuda psicológica, podem acabar exigindo muitos passos ou não estar claramente visíveis.
 
 ### Problema
 
 O usuário precisa:
 
-> Encontrar um psicólogo disponível e realizar o agendamento da consulta com sucesso.
+> Encontrar um psicólogo disponível na rede credenciada do plano e realizar o agendamento da consulta com sucesso.
 
 ### Perfil do Usuário
 
-* Adulto com rotina ocupada
-* Possivelmente emocionalmente fragilizado
-* Precisa de uma experiência simples e rápida
-* Baixa tolerância a processos complexos
+- Adulto com rotina ocupada  
+- Pode estar emocionalmente fragilizado  
+- Precisa resolver a tarefa de forma rápida  
+- Possui baixa tolerância a processos complexos  
 
+---
 
 # 🧠 Objetivo do Projeto
 
-Projetar um **fluxo de navegação simples e eficiente** que permita ao usuário:
+Projetar um **fluxo de navegação simples e eficiente dentro de um aplicativo de plano de saúde**, permitindo que o usuário:
 
-* encontrar um psicólogo
-* visualizar disponibilidade
-* agendar uma consulta
+- encontre psicólogos da rede credenciada  
+- visualize disponibilidade de horários  
+- realize o agendamento da consulta  
 
-O sistema deve permitir **mais de um caminho para atingir o mesmo objetivo**, respeitando diferentes comportamentos de navegação dos usuários.
+A estrutura do aplicativo foi organizada de forma que **a tarefa crítica de cuidado emocional seja fácil de acessar**, mesmo dentro de um ambiente com múltiplas funcionalidades.
 
+Além disso, o sistema permite **mais de um caminho para atingir o mesmo objetivo**, respeitando diferentes comportamentos de navegação dos usuários.
+
+---
 
 # 🗺️ Jornada do Usuário
 
 O fluxo desenvolvido considera as seguintes etapas:
 
-1. Entrada no aplicativo
-2. Identificação da necessidade de cuidado emocional
-3. Busca por psicólogo
-4. Visualização de profissionais disponíveis
-5. Escolha do profissional
-6. Seleção de data e horário
-7. Confirmação do agendamento
+1. Entrada no aplicativo do plano de saúde  
+2. Identificação da necessidade de cuidado emocional  
+3. Busca por psicólogos da rede credenciada  
+4. Visualização de profissionais disponíveis  
+5. Escolha do profissional  
+6. Seleção de data e horário  
+7. Confirmação do agendamento  
 
+---
 
 # 🔀 Dois Caminhos para a Mesma Tarefa
 
-O protótipo oferece **duas formas diferentes de realizar o agendamento**, aumentando a flexibilidade do uso.
+O protótipo oferece **duas formas diferentes de realizar o agendamento**, aumentando a flexibilidade da navegação dentro do aplicativo.
 
-### Caminho 1 — Busca direta por psicólogo
+## Caminho 1 — Acesso direto pela tela inicial
 
-O usuário acessa a área de busca ou especialidades médicas e seleciona **psicologia**, visualizando os profissionais disponíveis.
-
-Fluxo simplificado:
-
-```
-Home → Buscar Especialidade → Psicólogo → Selecionar Profissional → Agendar
-```
-
-
-### Caminho 2 — Acesso via cuidado emocional / bem-estar
-
-O usuário acessa uma área voltada para **bem-estar ou saúde mental**, sendo direcionado diretamente para opções de psicólogos disponíveis.
+A tela inicial do aplicativo destaca a possibilidade de **agendar uma consulta com psicólogo**, facilitando o acesso rápido à tarefa.
 
 Fluxo simplificado:
+Home → Agendar Psicólogo → Selecionar Profissional → Escolher Horário → Confirmar Consulta
 
-```
-Home → Saúde Mental / Bem-estar → Psicólogo → Escolher Horário → Confirmar Consulta
-```
+---
 
+## Caminho 2 — Busca por especialidades da rede credenciada
+
+O usuário também pode acessar a funcionalidade por meio da **lista de serviços e especialidades médicas disponíveis no plano**.
+
+Fluxo simplificado:
+Home → Serviços do Plano → Especialidades / Psicologia → Selecionar Profissional → Agendar
+
+---
 
 # 🧩 Decisões de UX
 
-Durante o desenvolvimento do wireframe foram consideradas as seguintes boas práticas de UX:
+Durante o desenvolvimento do wireframe foram consideradas algumas boas práticas de UX voltadas para aplicativos de saúde.
 
-**Redução de fricção**
+## Redução de fricção
 
-* caminhos curtos para o agendamento
-* poucas etapas para concluir a tarefa
+- caminhos curtos para o agendamento  
+- poucas etapas para concluir a tarefa  
 
-**Arquitetura da informação clara**
+## Arquitetura da informação clara
 
-* organização das funcionalidades principais
-* priorização do acesso à saúde mental
+- organização dos serviços do plano na tela inicial  
+- separação entre funcionalidades administrativas e busca por profissionais  
 
-**Flexibilidade de uso**
+## Flexibilidade de uso
 
-* dois caminhos diferentes para a mesma ação
-* adaptação a diferentes comportamentos de navegação
+- dois caminhos diferentes para chegar ao mesmo objetivo  
+- adaptação a diferentes comportamentos de navegação  
 
-**Foco na tarefa crítica**
+## Foco na tarefa crítica
 
-* destaque para o agendamento de psicólogo
-* fluxo simples e objetivo
+- destaque visual para o agendamento com psicólogo  
+- priorização do acesso à saúde mental dentro do aplicativo  
 
+---
 
 # 🧪 Teste com Usuários
 
 O protótipo foi desenvolvido para possibilitar **testes de usabilidade**, permitindo observar:
 
-* se os usuários encontram rapidamente o psicólogo
-* se conseguem concluir o agendamento
-* qual caminho de navegação preferem
+- se os usuários encontram rapidamente o acesso ao psicólogo  
+- se conseguem concluir o agendamento sem dificuldades  
+- qual caminho de navegação preferem utilizar  
 
-Os resultados desses testes podem orientar melhorias futuras na estrutura do aplicativo.
+Essas observações podem orientar **melhorias futuras na arquitetura do aplicativo e na organização das funcionalidades do plano de saúde**.
 
+---
 
 # 📚 Tecnologias Utilizadas
 
-* Figma (Wireframe e prototipação)
-* GitHub (documentação e entrega do projeto)
+- **Figma** — criação do wireframe e prototipação  
+- **GitHub** — documentação e entrega do projeto  
 
+---
 
 # 👨‍💻 Autor
 
-Projeto desenvolvido como atividade acadêmica da disciplina **Interface e Jornada do Usuário**, com foco em **UX Design, arquitetura da informação e construção de jornadas de uso em aplicações mobile**.
+Projeto desenvolvido como atividade acadêmica da disciplina **Interface e Jornada do Usuário**, com foco em **UX Design, arquitetura da informação e construção de jornadas de uso em aplicações mobile voltadas para serviços de saúde**.
